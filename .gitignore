@@ -31,6 +31,6 @@ mvnw
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
-
+src/main/data/data.tsv
 ### VS Code ###
 .vscode/
